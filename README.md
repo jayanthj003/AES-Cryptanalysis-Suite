@@ -1,6 +1,3 @@
-# AES-Cryptanalysis-Suite
-Python implementation of cryptanalysis techniques: brute-force and meet-in-the-middle attacks on AES-128 encryption. Educational cryptography project demonstrating key recovery methods.
-
 # AES Key Recovery Attacks
 A comprehensive implementation of cryptanalysis techniques demonstrating key recovery attacks on AES-128 encryption schemes. This project showcases two fundamental cryptographic attack methodologies: brute-force attack and meet-in-the-middle attack.
 
